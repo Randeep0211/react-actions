@@ -1,0 +1,14 @@
+name: Test-actions
+on: push
+jobs:
+  test-case:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Setup node modules
+        uses: actions/setup-node@v4
+      - name: Install Dependencies
+        run: npm ci
+      - name: Run the test-case
+        run: npm test
