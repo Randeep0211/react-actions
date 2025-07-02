@@ -6,9 +6,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Setup node modules
+      - name: Install Node js
         uses: actions/setup-node@v4
       - name: Install Dependencies
         run: npm ci
-      - name: Run the test-case
+      - name: Run test-cases
         run: npm test
