@@ -1,0 +1,49 @@
+[33mcommit 746bcc72be5ec194ef0d8897aebe4821ea25d8d3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Randeep singh <jazzysingh227@gmail.com>
+Date:   Wed Jul 2 15:48:30 2025 +0530
+
+    third test
+
+[33mcommit afc681613fea4af2d886df8574cb76f9f2c0196c[m
+Author: Randeep singh <jazzysingh227@gmail.com>
+Date:   Wed Jul 2 15:41:40 2025 +0530
+
+    second test
+
+[33mcommit 5a1dfc73ea6dc9e78ddbaca00c1b5ea5ab6a5247[m
+Author: Randeep singh <jazzysingh227@gmail.com>
+Date:   Wed Jul 2 15:34:24 2025 +0530
+
+    Test on Push
+
+[33mcommit d183f8c1c633e76c37098eebd05b16cd38453cc4[m
+Author: Randeep singh <jazzysingh227@gmail.com>
+Date:   Wed Jul 2 14:57:37 2025 +0530
+
+    First test commit
+
+[33mcommit 444c80cf59c7e461034129bc8e0c60226173654c[m
+Author: Abhijeet <abhijeetsinha43@gmail.com>
+Date:   Tue Jul 1 18:37:16 2025 +0530
+
+    Revert "failing test"
+    
+    This reverts commit ec024ca8aa6971dd0e0a5baf07679cb2dac595e9.
+
+[33mcommit ec024ca8aa6971dd0e0a5baf07679cb2dac595e9[m
+Author: Abhijeet <abhijeetsinha43@gmail.com>
+Date:   Tue Jul 1 18:36:02 2025 +0530
+
+    failing test
+
+[33mcommit 4b1634b2062b04c3081ba7b9b987ee326519b914[m
+Author: Abhijeet <abhijeetsinha43@gmail.com>
+Date:   Tue Jul 1 18:34:37 2025 +0530
+
+    added test workflow
+
+[33mcommit 2adba6097f9d028ea32f7a080bc2b7d0fe0947ec[m
+Author: Abhijeet <abhijeetsinha43@gmail.com>
+Date:   Tue Jul 1 18:32:32 2025 +0530
+
+    Initial Commit
