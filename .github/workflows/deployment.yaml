@@ -27,4 +27,4 @@ jobs:
       - name: Build project
         run: npm run build
       - name: Deploy code
-        uses: echo "Build Successful"
+        run: echo "Build Successful"
